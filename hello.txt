@@ -1,6 +1,5 @@
-'hello world!'
 this is my first day on git!
 
-edited on remote.
+edited on local.
 
 
